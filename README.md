@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/akhilbalthi" target="blank"><img src="https://img.shields.io/twitter/follow/akhilbalthi?logo=twitter&style=for-the-badge" alt="akhilbalthi" /></a> </p>
 
-- 🔭 I’m currently working on **OLX Clone**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
