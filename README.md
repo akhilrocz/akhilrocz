@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
 
-- 📫 How to reach me ** b.akhil667@gmail.com **
+- 📫 How to reach me **b.akhil667@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
