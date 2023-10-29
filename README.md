@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
 
-- 📫 How to reach me [b.akhil667@gmail.com](mailto:b.akhil667@gmail.com)
+- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/akhil-balthi-032b99200/))
+
 
 - ⚡ Fun fact **I am Funny**
 
