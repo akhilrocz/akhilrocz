@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilrocz&label=Profile%20views&color=0e75b6&style=flat" alt="akhilrocz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akhilbalthi" target="blank"><img src="https://img.shields.io/twitter/follow/akhilbalthi?logo=twitter&style=for-the-badge" alt="akhilbalthi" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
