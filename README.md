@@ -39,7 +39,6 @@
  </p>
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilrocz&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
