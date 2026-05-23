@@ -40,11 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilrocz&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilrocz&layout=compact&locale=en" alt="Top Languages" height="180"/>
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrocz" alt="GitHub Streak" height="180"/>
