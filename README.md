@@ -38,8 +38,16 @@
 
  </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilrocz&show_icons=true&locale=en&layout=compact" alt="akhilrocz" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilrocz&show_icons=true&locale=en" alt="akhilrocz" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilrocz&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrocz&" alt="akhilrocz" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilrocz&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrocz" alt="GitHub Streak" height="180"/>
+</p>
