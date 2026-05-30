@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
 
--📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akhil-balthi-0382892bb/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akhil-balthi-0382892bb/)
 
 
 - ⚡ Fun fact **I am Funny**
