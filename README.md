@@ -11,7 +11,6 @@
 
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akhil-balthi-0382892bb/)
 
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
