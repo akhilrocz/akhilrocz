@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Full Stack,MERN Stack.**
 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akhil-balthi-0382892bb/)
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/akhil-balthi-0382892bb/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25"/>
+</a>
 
 - ⚡ Fun fact: **I enjoy optimizing code as much as writing it.**
 
